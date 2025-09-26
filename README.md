@@ -22,4 +22,4 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Smooth3D-TWS-Enhancer.git
+git clone https://github.com/happy77005/Smooth-3D-Audio-TWS-Enhancer
